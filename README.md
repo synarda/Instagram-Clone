@@ -1,18 +1,1 @@
-# instagram_clone
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-![alt text]([http://url/to/img.png](https://github.com/synarda/Instagram-Clone/blob/main/photo.jpg?raw=true))
-
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![clone](https://github.com/synarda/Movie-App/assets/67860630/a4f4db6c-8c59-4ac6-a53e-2b401cfbd5c3)
